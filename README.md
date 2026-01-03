@@ -55,6 +55,11 @@ Crée un nouveau compte ou met à jour un compte existant.
 
 L’organisation du projet suit une structure claire et modulaire :
 
+<img width="1728" height="734" alt="3" src="https://github.com/user-attachments/assets/d9502355-d6b3-4d11-9075-8d0382e782ec" />
+
+<img width="1560" height="778" alt="4" src="https://github.com/user-attachments/assets/a4e00d0e-d785-4982-bb6b-c83c7b8230eb" />
+
+
 ```text
 src/
 ├── main/
